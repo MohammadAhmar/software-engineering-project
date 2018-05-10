@@ -1,0 +1,28 @@
+Last Updated: Mon Aug 07 04:09:42 EDT 2017
+Length: 775554
+To String: sun.net.www.protocol.https.DelegateHttpsURLConnection:https://static-cdn.jtvnw.net/ttv-boxart/Dota%202.jpg
+Permission settings: ("java.net.SocketPermission" "static-cdn.jtvnw.net:80" "connect,resolve")
+https://static-cdn.jtvnw.net/ttv-boxart/Dota%202.jpg= 
+Type: image/jpeg
+Saved to: link 0.img
+Last Updated: Mon Oct 07 07:36:49 EDT 2013
+Length: 72227
+To String: sun.net.www.protocol.https.DelegateHttpsURLConnection:https://upload.wikimedia.org/wikipedia/commons/c/c9/Moon.jpg
+Permission settings: ("java.net.SocketPermission" "upload.wikimedia.org:80" "connect,resolve")
+https://upload.wikimedia.org/wikipedia/commons/c/c9/Moon.jpg= 
+Type: image/jpeg
+Saved to: link 1.img
+Last Updated: Wed Dec 31 19:00:00 EST 1969
+Length: 97260
+To String: sun.net.www.protocol.https.DelegateHttpsURLConnection:https://stats.nba.com/
+Permission settings: ("java.net.SocketPermission" "stats.nba.com:80" "connect,resolve")
+https://stats.nba.com/= 
+Type: text/html; charset=UTF-8
+Saved to: link 2.txt , Lines:1865
+Last Updated: Wed Dec 31 19:00:00 EST 1969
+Length: -1
+To String: sun.net.www.protocol.https.DelegateHttpsURLConnection:https://www.google.com/
+Permission settings: ("java.net.SocketPermission" "www.google.com:80" "connect,resolve")
+https://www.google.com/= 
+Type: text/html; charset=ISO-8859-1
+Saved to: link 3.txt , Lines:6
